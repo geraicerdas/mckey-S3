@@ -33,12 +33,18 @@ To make your custom key with the McKey-S3 you need the following:
 ## Development logs
 V2.3
 - Changed indicator LEDs (BLE and USB)
+- Added switching mode : BLE and USB in the same firmware
+  
 V2.2
-- Added battery charging circuit
+- Changed the MCU to ESP32-S3
+- Added Bluetooth function (separate firmware)
+- Added battery charging circuit 
+  
 V2.1
-- Changed PCB Color to Red
+- Changed PCB Color to Blue (Blue PCB, ESP32-S2)
+  
 V1.0
-- Initial design
+- Initial design (Green PCB, ESP32-S2)
 
 ## PCB and Parts
 If you want to make the hardware yourself, just download the gerber file in production folder. Send it to your fav pcb manufacturer. And dont forget to get the Bill of materials :
