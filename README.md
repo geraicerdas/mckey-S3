@@ -16,9 +16,9 @@ The McKey-S3 uses high resistance switching to detect when you've made a connect
 You can use both USB connection and BLE connection in just one board. Please keep in mind to push GPIO0 button 3 times to switch the connection.
 
 <p float="left">
-<img src="https://images.tokopedia.net/img/cache/900/VqbcmM/2023/11/27/fae8f0bc-fc4c-481d-b03c-79a37490d833.jpg" width=400 /> 
-<img src="https://images.tokopedia.net/img/cache/900/VqbcmM/2023/11/27/cf09b666-48f8-47da-8387-0f948930cf40.jpg" width=400 /> 
-<img src="https://images.tokopedia.net/img/cache/900/VqbcmM/2023/11/27/4bb9865b-8d9b-4791-9afb-7f83494ce0e5.jpg" width=805 />
+<img src="https://images.tokopedia.net/img/cache/900/VqbcmM/2024/9/26/3e0ba9a2-b80c-4654-98cc-afae615e9e9c.jpg" width=400 /> 
+<img src="https://images.tokopedia.net/img/cache/900/VqbcmM/2024/9/26/04c5ee37-0b52-47f4-8acb-f5ff66febbcd.jpg" width=400 /> 
+<img src="https://images.tokopedia.net/img/cache/900/VqbcmM/2024/9/26/e071c9dc-bb31-444e-99a3-e31ed6bbef78.jpg" width=805 />
 </p>
 
 ## How To Use
