@@ -4,7 +4,7 @@
 * **/production** : gerber file for pcb manufacturing (.zip)
 
 You can purchase this product from [![Generic badge](https://img.shields.io/badge/Indonesia-Tokopedia-<COLOR>.svg)](https://www.tokopedia.com/geraicerdas/mckey-s3-makey-makey-w-esp32-s3-scratch-compatible-wireless-keyboard-dengan-header-88351) 
-[![Generic badge](https://img.shields.io/badge/Worldwide-Tindie-blue)](https://www.tindie.com/products/geraicerdas/cerdas-uwb-tracker/)
+[![Generic badge](https://img.shields.io/badge/Worldwide-Tindie-blue)](https://www.tindie.com/products/35922/)
 
 # McKey-S3
 Makey Makey ESP32-S3 Version. This project is a rework of original design of Makey Makey board published by **[Sparkfun in this archived repo](https://github.com/sparkfun/MaKeyMaKey)**
