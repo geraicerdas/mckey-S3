@@ -18,19 +18,20 @@
    - **Work Mode**: Develop
    - **Load Mode**: UART
   
-     ![esp32 flashtool 1](https://github.com/user-attachments/assets/5da3bfa6-075a-4e17-a3c2-6df1bd6d2751)
+    <img src="https://github.com/user-attachments/assets/5da3bfa6-075a-4e17-a3c2-6df1bd6d2751" alt="esp32 flashtool 1" width="250"/>
+
 
 3. Add firmware:
    - **Binary File**: `McKeyS3_V4_factory.bin`
    - **Address**: `0x0`
-  
-     ![esp32 flashtool 2](https://github.com/user-attachments/assets/519d6d51-ee16-45ce-8b58-83d81f2a0fcf)
+     
+    <img src="https://github.com/user-attachments/assets/519d6d51-ee16-45ce-8b58-83d81f2a0fcf" alt="esp32 flashtool 2" width="400"/>
 
 4. Set communication:
    - **COM Port**: Check Device Manager (Windows)
    - **Baud Rate**: 1152000
   
-     ![McKey-S3 Device Manager Programming Mode](https://github.com/user-attachments/assets/41dcc194-0d53-4687-829b-b33245de4f24)
+    <img src="https://github.com/user-attachments/assets/41dcc194-0d53-4687-829b-b33245de4f24" alt="McKey-S3 Device Manager Programming Mode" width="800"/>
 
 
 ## Step 3: Flash Firmware
@@ -39,10 +40,10 @@
    - Green progress bar reaches 100%
    - "FINISH" message appears
    - Verification log shows success
-  
-     ![esp32 flashtool 3](https://github.com/user-attachments/assets/d9da7459-81bc-44c2-a143-17facc336f87)
-
-     ![esp32 flashtool 4](https://github.com/user-attachments/assets/5ecb54dc-17d5-454f-8852-11ccd5bf0207)
+    
+     <img src="https://github.com/user-attachments/assets/d9da7459-81bc-44c2-a143-17facc336f87" alt="esp32 flashtool 3" width="400"/>
+     
+<img src="https://github.com/user-attachments/assets/5ecb54dc-17d5-454f-8852-11ccd5bf0207" alt="esp32 flashtool 4" width="900"/>
 
 
 
